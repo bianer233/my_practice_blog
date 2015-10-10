@@ -39,6 +39,7 @@ INSTALLED_APPS = (
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'article',
+    # 'django.contrib.markup',
 )
 
 from django.conf import global_settings
